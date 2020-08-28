@@ -1,4 +1,4 @@
-public class MinStepsInInfiniteGrid {
+public class AddOneToNumber {
     /* https://www.interviewbit.com/problems/add-one-to-number */
 
     public static int[] plusOne(int[] A) {
